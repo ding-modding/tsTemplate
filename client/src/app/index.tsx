@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+<<<<<<< HEAD
+=======
+import './ui/index';
+>>>>>>> d9b7d98a6d0936839e31315c118e586f9a5ba559
 import { App } from './router';
 import { reportWebVitals } from './config';
 

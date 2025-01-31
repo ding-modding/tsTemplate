@@ -11,9 +11,14 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "http-proxy-middleware": "^3.0.3",
+<<<<<<< HEAD
     "lucide-react": "^0.474.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+=======
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+>>>>>>> d9b7d98a6d0936839e31315c118e586f9a5ba559
     "react-router": "^7.1.3",
     "react-router-dom": "^7.1.3",
     "react-scripts": "5.0.1",
@@ -45,9 +50,16 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
     "autoprefixer": "^3.1.0",
     "postcss": "^3.0.7",
     "postcss-loader": "^8.1.1",
     "tailwindcss": "^3.4.17"
+=======
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "^4.0.0"
+>>>>>>> d9b7d98a6d0936839e31315c118e586f9a5ba559
   }
 }
