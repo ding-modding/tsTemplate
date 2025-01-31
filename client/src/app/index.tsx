@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './ui/index';
 import { App } from './router';
 import { reportWebVitals } from './config';
-import { TimeSchoolIcon } from '../shared/ui';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -11,7 +9,6 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
-    <TimeSchoolIcon></TimeSchoolIcon>
   </React.StrictMode>
 );
 
